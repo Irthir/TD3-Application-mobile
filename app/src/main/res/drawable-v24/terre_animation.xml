@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/terre01" android:duration="100"/>
+    <item android:drawable="@drawable/terre02" android:duration="100"/>
+    <item android:drawable="@drawable/terre03" android:duration="100"/>
+    <item android:drawable="@drawable/terre04" android:duration="100"/>
+    <item android:drawable="@drawable/terre05" android:duration="100"/>
+    <item android:drawable="@drawable/terre06" android:duration="100"/>
+    <item android:drawable="@drawable/terre07" android:duration="100"/>
+    <item android:drawable="@drawable/terre08" android:duration="100"/>
+    <item android:drawable="@drawable/terre09" android:duration="100"/>
+    <item android:drawable="@drawable/terre10" android:duration="100"/>
+    <item android:drawable="@drawable/terre11" android:duration="100"/>
+    <item android:drawable="@drawable/terre12" android:duration="100"/>
+    <item android:drawable="@drawable/terre13" android:duration="100"/>
+    <item android:drawable="@drawable/terre14" android:duration="100"/>
+</animation-list>

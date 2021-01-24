@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hauteurligne">100dp</dimen>
+    <dimen name="policeplanete">20sp</dimen>
+    <dimen name="policedescription">16sp</dimen>
+    <dimen name="marginplanete">1dp</dimen>
+</resources>
